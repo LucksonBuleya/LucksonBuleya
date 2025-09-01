@@ -40,7 +40,8 @@
 
 <br clear="both">
 
-### <img src="https://raw.githubusercontent.com/LucksonBuleya/LucksonBuleya/output/snake.svg" alt="Snake animation" />
+<!-- ### <img src="https://raw.githubusercontent.com/LucksonBuleya/LucksonBuleya/output/snake.svg" alt="Snake animation" /> ### -->
+
 
 ###
 
