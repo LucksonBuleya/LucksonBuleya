@@ -40,8 +40,7 @@
 
 <br clear="both">
 
-<!-- ### <img src="https://raw.githubusercontent.com/LucksonBuleya/LucksonBuleya/output/snake.svg" alt="Snake animation" /> ### -->
-
+<img src="https://raw.githubusercontent.com/LucksonBuleya/LucksonBuleya/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -56,9 +55,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucksonBuleya.LucksonBuleya&"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LucksonBuleya.LucksonBuleya&"  />
 
 ###
 
