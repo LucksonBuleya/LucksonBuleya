@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! I'm Luckson Buleya, a CS undergrad</h2>
+<h2 align="left">Hi I'm Luckson Buleya, a CS undergrad</h2>
 
 ###
 
 <h3 align="left">About Me</h3>
 <p align="left">
-  📚 Always learning | ⚛️ Exploring React | 🐍 Applying DSA concepts in Python | 🌐 Getting familiar with APIs
+  Always learning | Exploring React | Applying DSA concepts in Python | Getting familiar with APIs
 </p>
 
 ###
@@ -58,7 +58,7 @@
 
 ###
 
-<h2 align="left">📫 Contact Me</h2>
+<h2 align="left"> Contact Me</h2>
 <div align="left">
   <a href="mailto:lbuleya2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
