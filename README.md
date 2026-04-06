@@ -1,5 +1,4 @@
-<h2 align="left">Hi I'm Luckson Buleya, a CS undergrad</h2>
-
+<h1 align="center">Luckson Buleya</h1>
 ###
 
 <h3 align="left">About Me</h3>
