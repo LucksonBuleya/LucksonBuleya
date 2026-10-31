@@ -1,5 +1,3 @@
-# Luckson Buleya
-
 <h1 align="center">Luckson Buleya</h1>
 
 <p align="center">
